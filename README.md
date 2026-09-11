@@ -5,7 +5,8 @@
 
 > 연구·교육 목적. 모든 페이로드는 무해한 카나리아(`김제윤` 문자열, localhost 비콘)만 사용하며
 > 제3자 시스템을 대상으로 하지 않는다. 자가호스팅 본인 인프라 대상 방어 연구.
-> 환경은 [`environment.md`](environment.md), 결과 요약은 [`results-summary.md`](results-summary.md).
+> 환경은 [`environment.md`](environment.md), 결과 요약은 [`results-summary.md`](results-summary.md),
+> 업계 표준 용어 정리는 [`GLOSSARY.md`](GLOSSARY.md).
 
 ## 시나리오
 
